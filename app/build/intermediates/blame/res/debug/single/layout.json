@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/chapatel/GitHub/app/build/intermediates/res/merged/debug/layout/about.xml",
+        "source": "/Users/chapatel/GitHub/app/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/Users/chapatel/GitHub/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/chapatel/GitHub/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/chapatel/GitHub/app/build/intermediates/res/merged/debug/layout/leaderboard.xml",
+        "source": "/Users/chapatel/GitHub/app/src/main/res/layout/leaderboard.xml"
+    },
+    {
+        "merged": "/Users/chapatel/GitHub/app/build/intermediates/res/merged/debug/layout/finished.xml",
+        "source": "/Users/chapatel/GitHub/app/src/main/res/layout/finished.xml"
+    }
+]

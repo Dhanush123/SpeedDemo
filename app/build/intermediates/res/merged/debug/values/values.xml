@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backcolor_normal">#FF000000</color>
+    <color name="backcolor_overspeed">#FFFF0000</color>
+    <color name="textcolor_normal">#FFFFFFFF</color>
+    <color name="textcolor_overspeed">#FF000000</color>
+    <string name="about_menu_name">About</string>
+    <string name="about_message">Sample application to demostrate GPS in Android.\n\nVisit http://www.krvarma.com for more info.</string>
+    <string name="app_name">Speed Warning</string>
+    <string name="currentResult">Current Result:</string>
+    <string name="info">Waiting for GPS...</string>
+    <string name="retryButton">Retry</string>
+    <string name="setting_unit">Measurement Unit</string>
+    <string name="startButton">Start</string>
+    <string name="unit_km">Kilometer</string>
+    <string name="unit_miles">Miles</string>
+</resources>

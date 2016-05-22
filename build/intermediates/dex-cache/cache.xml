@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/chapatel/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/chapatel/GitHub/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.2_913243b8cd9e69855af2d4b40b8e58563f118fe2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chapatel/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/chapatel/GitHub/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.2_92e7b481b802725ddb2dbba5829a4b95b01cd2cf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chapatel/GitHub/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d29661caee9c677017cd454dc107171d3cb6506d">
+        <dex dex="/Users/chapatel/GitHub/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2cf1d8d9d482dfe3b856c684eea78fb2d68bb11f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chapatel/GitHub/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ace8c47ee0e395fbcdc9fbbcb100d45311786213">
+        <dex dex="/Users/chapatel/GitHub/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bdfa454883adcf7f90e43df31a636611358080a4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chapatel/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.2/91731b8f5868a3e8a8a773f29b8d06b5c358f5bb/firebase-client-jvm-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="/Users/chapatel/GitHub/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-jvm-2.5.2_fad49e745c259d8d236476ba266fd6dcceebb28c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chapatel/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/Users/chapatel/GitHub/app/build/intermediates/transforms/dex/debug/folders/1000/10/tubesock-0.0.12_c99751665fc79954fb4d1e1c5ee4bab4a730b41f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chapatel/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/chapatel/GitHub/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.2.2_002ee3e69eab13e4bdf3e834d12f5dc9940f82b2/classes.dex" />
+    </item>
+
+</items>
